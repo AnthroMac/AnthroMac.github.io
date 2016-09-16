@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://AnthroMac.github.io
+title: AnthroMac
+tagline: Life of a modern day Anthropology student 
+description: A fun blog to discuss all things anthropology in the modern tech world!
+paginate: 5
