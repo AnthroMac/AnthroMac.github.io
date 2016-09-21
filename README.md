@@ -7,5 +7,5 @@
 </head>
 <p> I am so new to the "behind the scenes" digital world, I am working on this blog in order to hone the skills that we are learning in ANTH 485: Digital Archaeology: Virtual Heritage & Practice in the 21st Century. .. Wish Me Luck! </p>
 
-<img src="https://pixabay.com/en/stones-skull-skeleton-dead-death-943409"/> 
+<img src="https://pixabay.com/en/bone-animal-decay-skeleton-nature-949077/"/> 
 
