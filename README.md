@@ -5,7 +5,7 @@
 	<meta charset="utf-8"/>
 	<link rel="stylesheet" type="text/css" href="main.css">
 </head>
-<p> I am so new to the "behind the scenes" digital world, I am working on this blog in order to hone the skills that we are learning in ANTH 485: Digital Archaeology: Virtual Heritage & Practice in the 21st Century. .. Wish Me Luck! </p>
+<p> New findings under the Zoo in Lima shows 1000 year old dogs </p>
 
 
   
