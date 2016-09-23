@@ -1,0 +1,6 @@
+---
+published: true
+title: Dogs 
+layout: post
+---
+1000 year old Dogs found in peru
